@@ -94,7 +94,7 @@ In this task, simulated attacks can help you identify and find vulnerable users 
 1. On the **Add Indicator** pane that appears on the right, enter the following information:
 
 	- Select an indicator you would like to use: **Too good to be true offers**
-	- Where do you want to place this indicator on payload: **From the Body of the Email**
+	- Where do you want to place this indicator on the payload?: **From the Body of the Email**
 
 1. A **Select Text** button will appear. Select this button.
 
