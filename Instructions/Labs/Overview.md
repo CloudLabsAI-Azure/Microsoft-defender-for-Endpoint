@@ -9,7 +9,7 @@ Microsoft Defender for Endpoint is an advanced threat protection solution design
 1. **Endpoint Security**: Microsoft Defender for Endpoint focuses on securing endpoints, which are individual devices within an organization's network. This includes protection for Windows-based devices, macOS, Linux, and mobile devices.
 
 2. **Threat Protection**:
-The solution offers comprehensive threat protection by utilizing a combination of advanced threat intelligence, machine learning, and behavioral analysis. It helps identify and block a wide range of sophisticated threats, including malware, ransomware, and zero-day exploits.
+The solution offers comprehensive threat protection by utilizing a combination of advanced threat intelligence, machine learning, and behavioural analysis. It helps identify and block a wide range of sophisticated threats, including malware, ransomware, and zero-day exploits.
 
 3. **Advanced Analytics**: Microsoft Defender for Endpoint includes advanced analytics capabilities, allowing organizations to gain insights into their security posture. It provides detailed reports and analytics to help security teams understand the nature of threats and take proactive measures.
 
@@ -32,7 +32,7 @@ Microsoft Defender for Endpoint integrates seamlessly with the Microsoft 365 Sec
 
 
 ## Sandbox Scenario
-Contoso Corporation, strategically implements Defender for Endpoint, which provides visibility into devices in your environment, offers vulnerability management to help you better understand your cyberattack surface, and delivers endpoint protection, endpoint detection and response (EDR), mobile cyberthreat protection, and managed hunting in a single platform.
+Contoso Corporation, strategically implements Defender for Endpoint, which provides visibility into devices in your environment, offers vulnerability management to help you better understand your cyberattack surface, and delivers endpoint protection, endpoint detection and response (EDR), mobile cyber threat protection, and managed hunting in a single platform.
 
 ## About the Sandbox
 
@@ -46,23 +46,23 @@ Using this environment, you'll be able to explore complete features and offering
 
   These virtual machines are tailored and configured to the sandbox's specifications. Files, applications, packages, and OS configurations are all pre-configured. It is recommended that you use the same virtual machine throughout the lab for the best experience.
 
-#### **License and subscription**: 
+#### **License and subscription**:
 
 - You'll have access to a pre-configured Microsoft user account with an active Azure subscription, a tenant, and a Microsoft 365 E5 license assigned to the user. 
    
   User account has assigned as Owner at subscription and Global administrator at the tenant level. You need to use the same user account throughout the lab to get the most out of the lab. 
 
-#### **Azure Credits**: 
+#### **Azure Credits**:
 
 - You have been given a quota of **$83** which includes the running cost of Pre-deployed resources, license cost, and other resources deployed while running through the lab.
 
   You will receive **cost alerts** to your registered email address at **50%/75%/90%/95%/100%** of the allotted Azure Credit is spent.
 
-  You can visit the Azure Subscription page to check the current Azure credit spend and Analysis on **Cost analysis** tab under the Cost Management option.
+  You can visit the Azure Subscription page to check the current Azure credit spend and Analysis on the **Cost analysis** tab under the Cost Management option.
 
   ![Picture 1](/Instructions/Media/o1.jpg)
 
-#### **Duration and Deletion of sandbox**:  
+#### **Duration and Deletion of sandbox**:
 
 - The sandbox environment will be active for **30 days/730** hours from the time of registration. 
 - The maximum allowed virtual machine uptime is only **40 hours**. It is recommended to deallocate the virtual machine when not in use.
@@ -86,7 +86,7 @@ Based on your interests, you can use this lab guide as a reference to learn and 
 
 - Lab 01 - Implement Microsoft Defender for Endpoint
 - Lab 02 - Onboard Machines
-- Lab 03 - End to end EDR (Incident, Alerts, Actions & Live Responses)
+- Lab 03 - End-to-end EDR (Incident, Alerts, Actions & Live Responses)
 - Lab 04 - Vulnerability Management and Mitigation
 - Lab 05 - Configure & Test Defender for Endpoint capabilities
 - Lab 06 - Simulate & Investigate Attacks
