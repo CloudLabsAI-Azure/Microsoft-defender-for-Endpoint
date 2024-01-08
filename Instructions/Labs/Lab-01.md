@@ -31,7 +31,7 @@ In this lab, you will perform the following:
 
 In this task, you will perform the initialization of the Microsoft Defender for the Endpoint portal.
 
-1. Inside the Lab-VM, select **Type here to search**, type **Microsoft Edge (1)** and select it (2).
+1. Inside the Lab-VM, select **Type here to search**, type **Microsoft Edge (1)** and select it **(2)**.
 
     ![Picture 1](../Media/typeheretosearch.png)
 
@@ -81,9 +81,9 @@ In this task, you will configure roles for use with device groups.
     |Group Name| **Sg-IT** |
     |Microsoft Entra roles can be assigned to the group| **Yes** |
 
-1. Under **Owners** section, click on **No owners selected** and select the **ODL_User <inject key="DeploymentID" enableCopy="false"></inject>** from the list and then click on **select**.
+1. Under **Owners** section, click on **No owners selected** and select the **ODL_User <inject key="DeploymentID" enableCopy="false"></inject>** from the list and then click on **Select**.
 
-1. Under **Members** section, click on **No members selected** and select the **ODL_User <inject key="DeploymentID" enableCopy="false"></inject>** from the list and then click on **select**.
+1. Under **Members** section, click on **No members selected** and select the **ODL_User <inject key="DeploymentID" enableCopy="false"></inject>** from the list and then click on **Select**.
 
    **Note**: Make sure you have selected **Group type** as Microsoft 365.
 
@@ -157,7 +157,7 @@ In this task, your objective is to implement the Windows Intune security baselin
 
 1. Open another tab and browse to the [Microsoft Intune admin center](https://intune.microsoft.com/?ref=AdminCenter#home).
 
-1. From the left navigation pane, select **Endpoint security(1)**, under **Overview** section, select **Security Baselines (2)**.
+1. From the left navigation pane, select **Endpoint security (1)**, under **Overview** section, select **Security baselines (2)**.
 
 1. On the **Endpoint security | Security baselines**, select **Security Baseline for Windows 10 and later (3)**.
 
