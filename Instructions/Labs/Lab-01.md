@@ -6,7 +6,7 @@ In this lab, participants will immerse themselves in the practical implementatio
 
 ## Lab scenario
 
-The objective of this lab is to provide a hands-on experience in setting up and configuring Microsoft Defender for Endpoint, a comprehensive endpoint security solution. Participants will learn how to enhance the security posture of their organization's endpoints by implementing various features and policies offered by Defender for Endpoint.
+The objective of this lab is to provide hands-on experience in setting up and configuring Microsoft Defender for Endpoint, a comprehensive endpoint security solution. Participants will learn how to enhance the security posture of their organization's endpoints by implementing various features and policies offered by Defender for Endpoint.
 
 - **Hands-On Experience**: Participants will actively engage with the Microsoft Defender for Endpoint platform, gaining practical experience in the setup and configuration processes. This hands-on approach allows them to familiarize themselves with the actual steps involved in deploying and managing Defender for Endpoint.
 
@@ -47,13 +47,12 @@ In this task, you will perform the initialization of the Microsoft Defender for 
 
     ![Picture 1](../Media/devicediscovery.png)
 
-    >**Note:** If you do not see the **Device Discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and choose **Sign Out**. Other options to consider are refreshing the page, waiting for 20-25 minutes, or opening the page in private mode (InPrivate). Afterward, log in again using the **Tenant Email** credentials.
+    >**Note:** If you do not see the **Device Discovery** option under **Settings**, log out by selecting the top-right circle with your account initials and choose **Sign Out**. Other options to consider are refreshing the page, waiting for 20-25 minutes, or opening the page in private mode (InPrivate). Afterwards, log in again using the **Tenant Email** credentials.
 
 1. In the Discovery setup make sure **Standard discovery (recommended)** is selected. 
     
     >**Hint:** If you do not see the option, refresh the page.
 
-    
 ### Task 2: Configure Roles
 
 In this task, you will configure roles for use with device groups.
