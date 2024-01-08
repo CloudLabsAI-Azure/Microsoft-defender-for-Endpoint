@@ -6,7 +6,7 @@ The lab encompasses the setup of an evaluation lab, the addition of devices to t
 
 ## Lab scenario
 
-The objective of this lab is to provide a hands-on experience in setting up an evaluation environment. This involves configuring the lab, adding devices, and implementing various threat simulator scenarios.
+The objective of this lab is to provide hands-on experience in setting up an evaluation environment. This involves configuring the lab, adding devices, and implementing various threat simulator scenarios.
 
 - **Setup the Evaluation Lab**: Participants will learn the process of setting up an evaluation lab environment for simulating cybersecurity scenarios.
 Understanding the importance of controlled environments for testing and evaluation is a key objective.
@@ -42,15 +42,15 @@ In this task, set up the evaluation lab for a succinct testing environment.
 
 1. Select the **Setup lab**.
 
-1. Depending on your evaluation needs, you can choose to setup an environment with fewer devices for a longer period or more devices for a shorter period. Select your preferred lab configuration then select **Next**.
+1. Depending on your evaluation needs, you can choose to set up an environment with fewer devices for a longer period or more devices for a shorter period. Select your preferred lab configuration then select **Next**.
 
     ![Picture 1](../Media/labconfigurations.png)
 
 1. On the **Install simulators agent** tab, under the **Microsoft privacy statement**, select **Provide consent by accepting the Microsoft terms (1)**. This action will display the **Microsoft terms** page; here, you should select **I accept**. Now, return to the **Install simulators agent** tab, and select **Provide consent by accepting the information sharing statement (2)**. On the **Microsoft information sharing statement** page, again select **I accept**.
 
-    >**Important**: You'll first need to accept and provide consent to the terms and information sharing statements.
+    >**Important**: You'll first need to accept and provide consent to the terms and information-sharing statements.
 
-1. Under **Select vendors**, accept the license agreement of **AttackIQ (3)** by selecting the links which is written under the AttackID, select the checkbox of **AttackIQ**, and select the checkbox of **SafeBreach (4)**, fill these credentials, after filling the credentials select **Next**.
+1. Under **Select vendors**, accept the license agreement of **AttackIQ (3)** by selecting the links which are written under the AttackID, select the checkbox of **AttackIQ**, and select the checkbox of **SafeBreach (4)**, fill these credentials, after filling the credentials select **Next**.
 
     - Email address: <inject key="AzureAdUserEmail"></inject>
     - First name: odl
@@ -60,7 +60,7 @@ In this task, set up the evaluation lab for a succinct testing environment.
 
 1. Review the summary and select **Setup lab**.  
 
-    >**Note:** you can select the threat simulation agent you'd like to use and enter your details. You can also choose to install threat simulators at a later time. If you choose to install threat simulation agents during the lab setup, you'll enjoy the benefit of having them conveniently installed on the devices you add.
+    >**Note:** You can select the threat simulation agent you'd like to use and enter your details. You can also choose to install threat simulators at a later time. If you choose to install threat simulation agents during the lab setup, you'll enjoy the benefit of having them conveniently installed on the devices you add.
 
     ![Picture 1](../Media/lab-setup-summary.png)
 
@@ -70,7 +70,7 @@ When you add a device to your environment, Defender for Endpoint sets up a well-
 
 The device will be configured with the most up-to-date version of the OS and Office 2019 Standard as well as other apps such as Java, Python, and SysIntenals.
 
-If you chose to add a threat simulator during the lab setup, all devices will have the threat simulator agent installed in the devices that you add.
+If you choose to add a threat simulator during the lab setup, all devices will have the threat simulator agent installed in the devices that you add.
 
 The device will automatically be onboarded to your tenant with the recommended Windows security components turned on and in audit mode - with no effort on your side.
 
