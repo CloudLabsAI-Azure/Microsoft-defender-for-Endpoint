@@ -131,7 +131,7 @@ When you investigate an incident, you'll see:
 
     - **Attack story**:- 
 
-    - Attack stories help you to quickly review, investigate, and remediate attacks while viewing the full story of the attack on the same tab. It also allows you to review the entity details and take remediation actions, such as deleting a file or isolating a device without losing context. Within the attack story you can find the alert page and the incident graph. The incident alert page has these sections:- Alert story, which includes: What happened, Actions taken, Related events, and Alert properties in the right pane (state, details, description, and others).
+    - Attack stories help you to quickly review, investigate, and remediate attacks while viewing the full story of the attack on the same tab. It also allows you to review the entity details and take remediation actions, such as deleting a file or isolating a device without losing context. Within the attack story, you can find the alert page and the incident graph. The incident alert page has these sections:- Alert story, which includes: What happened, Actions taken, Related events, and Alert properties in the right pane (state, details, description, and others).
     
         >**Note:** Note that not every alert will have all of the listed subsections in the Alert story section.
 
@@ -202,7 +202,7 @@ When you investigate an incident, you'll see:
     - There is also an Investigation graph tab that shows:
 
         - The connection of alerts to the impacted assets in your organization.
-        - Which entities are related to which alerts and how they are part of the story of the attack.
+        - Which entities are related to which alerts and how they are part of the story of the attack?
         - The alerts for the incident.
 
     - The investigation graph helps you quickly understand the full scope of the attack by connecting the different suspicious entities that are part of the attack with their related assets such as users, devices, and mailboxes.
